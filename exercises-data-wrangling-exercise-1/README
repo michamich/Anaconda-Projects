@@ -1,0 +1,7 @@
+Analysis.ipynb contains the Python script that uses the csv files in Data folder and creates a list of results that fulfills criteria outlined in the Data World exercise "Data Wrangling Exercise 1"
+
+Link: https://data.world/exercises/data-wrangling-exercise-1
+
+The result is sorted in a descending order by crime rate in the city it is located. 
+Result is then saved in the result_final.csv for further analysis if needed. 
+
