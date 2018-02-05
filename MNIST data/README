@@ -1,0 +1,7 @@
+Welcome!
+
+1. Keras Tutorial Analysis is the basic analysis as outlined in the Kaggle Tutorial page
+Link: https://www.kaggle.com/poonaml/deep-neural-network-keras-way
+
+2. Keras Monorchrome Analysis is an attempt at expanding the original algorithm. 
+This compares the outcome and accuracy between the original images and a black-and-white binary image. 
