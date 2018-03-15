@@ -1,0 +1,6 @@
+This folder contains my implementation of a Collaborative filter on a data set obtained from MyAnimeList. 
+
+The aim of the project is to see the 15 best and worst anime of all time according to MAL users. 
+
+Data is obtained from Kaggle data repo.
+Link: https://www.kaggle.com/CooperUnion/anime-recommendations-database
